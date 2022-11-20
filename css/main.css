@@ -414,8 +414,11 @@ img {
 
 /* footer */
 
-.footer__div {
+footer {
     background-color: var(--bg-black);
+}
+
+.footer__div {
     display: flex;
     justify-content: space-between;
     padding: 48px 85px;
